@@ -1,1 +1,5 @@
-# DragonXV4-eaglercraft
+# DragonXv4 eaglercraft
+このclientでもしもbanされたとしても私は責任を取れません
+自己責任ということでよろしくお願いします
+download方法は
+ドラゴンXV４.htmlを生ファイルでdownloadするだけです
