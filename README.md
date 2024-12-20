@@ -1,5 +1,2 @@
-# DragonXv4 eaglercraft
-このclientでbanされたとしても私は責任を取れません
-自己責任ということでよろしくお願いします
-download方法は
-ドラゴンXV４.htmlを生ファイルでdownloadするだけです
+# DragonXv4 link https://afmovie.github.io/DragonXV4-eaglercraft/DragonXV4.html
+
